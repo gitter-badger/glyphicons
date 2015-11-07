@@ -5,3 +5,6 @@
 
 This project could be your own. [(fork me)](https://github.com/wurde/glyphicons/fork)<br/>
 All contributions will be attributed and preserved.
+
+## License
+First Steps is released under the [MIT License](http://www.opensource.org/licenses/MIT).
